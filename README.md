@@ -1,5 +1,3 @@
-# Phishing-awareness-guide
-
 # Phishing Awareness Guide
 
 A short resource that helps non-technical staff recognise, avoid and report phishing emails. Created as a Junior Cybersecurity Analyst mini-project.
