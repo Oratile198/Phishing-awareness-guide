@@ -1,9 +1,8 @@
 # Phishing Awareness Guide
 
-A short resource that helps non-technical staff recognise, avoid and report phishing emails. Created as a Junior Cybersecurity Analyst mini-project.
 
 ## Why this project?
-Phishing is one of the most common ways attackers steal passwords and money. Most attacks succeed because someone clicks a link by mistake, so awareness is the first line of defence.
+Phishing is one of the most common ways attackers steal passwords and money. Most attacks succeed because someone clicks a link by mistake or without knowing what it is ,so awareness is the first line of defence.
 
 ## What is inside
 | Folder | File | Purpose |
